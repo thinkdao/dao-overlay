@@ -1,0 +1,14 @@
+<?xml version="1.0" ?>                                                                                                     
+<repositories version="1.0">
+	<repo priority="50" quality="experimental" status="unofficial">
+		<name>dao</name>
+		<description>Dao sandbox overlay</description>
+		
+<homepage>https://github.com/thinkdao/dao-overlay</homepage>
+		<owner>
+			<email>thdao@opmbx.org</email>
+		</owner>
+		<source 
+type="git">https://github.com/thinkdao/dao-overlay.git</source>
+	</repo>
+</repositories>
