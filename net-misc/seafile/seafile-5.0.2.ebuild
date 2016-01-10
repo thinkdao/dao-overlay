@@ -30,7 +30,7 @@ DEPEND="
 				dev-python/simplejson
 				dev-python/mako
 				dev-python/webpy
-				dev-python/Djblets
+				=dev-python/Djblet-0.6.1.4
 				dev-python/chardet	)"
 
 
